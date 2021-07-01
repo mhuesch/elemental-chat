@@ -1,7 +1,7 @@
 let
   src = builtins.fetchGit {
     url = "git@github.com:holochain/holonix";
-    rev = "044fa4b4e3db5a0e0274c0461628255c9c38aeb9";
+    rev = "014d28000c8ed021eb84000edfe260c22e90af8c";
   };
 in
 
